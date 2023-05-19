@@ -1,0 +1,274 @@
+body {
+    margin: 0% !important;
+    padding: 0% !important;
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    background-color: #fff;
+}
+
+
+.navbar-brand {
+    padding: 0.5rem 1rem 0.7rem 1rem;
+    
+    font-family: 'cabin', sans-serif;
+    
+}
+ .navbar {
+    background-color:rgba(251, 185, 251, 0.429) ;
+    margin-bottom: 0%;
+ }
+
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'cabin', sans-serif;
+   
+}
+
+nav {
+    padding-top: 0% !important;
+    padding-bottom: 0% !important;
+        
+}
+
+.navbar-toggler {
+    border-color: black;
+    color:black;
+   
+}
+
+header {
+    background-color: #fff5fa;
+}
+
+#prototipo {
+    max-width: 100%;
+    height: 60px;
+    width: auto;
+}
+
+main {
+    padding-bottom: 6%;
+    background-color: rgb(255, 245, 250);
+}
+
+
+#prototipo1 {
+    max-height: 250px;
+    max-width:auto;
+}
+
+h1 {
+    padding:1%;
+    font-size: 2.2rem;
+    margin: 0%;
+}
+
+.sides {
+	border-image: linear-gradient(to left, turquoise, rgb(255, 170, 212)) 1 0 !important;
+}
+.border {
+    border-width: 0.2rem !important;
+} 
+
+
+.spiegazione {
+   padding: 1% 5%;
+   
+ 
+}   
+#spiegazioneinizio {
+    font-size: 1.2rem;
+    margin-bottom: 0%;
+    padding: 1% 3%;
+    text-align: center;
+}
+
+.introduzione {
+    padding: 0;
+    
+}
+#h2home {
+    font-size: 1.2rem;
+    padding: 1% 0%;
+    border-top-width: 0.2rem;
+    border-image: linear-gradient(to left, turquoise, rgb(47, 255, 95)) 1 0;
+    border-style: solid;
+    border-bottom-width: 0rem;
+}
+
+
+ .tuttibox {
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1%;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+
+ .tuttibox .box {
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    min-width: 200px;
+    width: 325px;
+    
+    border-radius: 15%;
+    border-width: 0.05rem;
+    border-style: solid;
+    
+}
+
+ .uno {
+    background-color: rgb(255, 220, 220);
+    border-color: rgb(255, 152, 152);
+}
+
+.due {
+    background-color: rgb(255, 251, 199);
+    border-color: rgb(252, 224, 99);
+}
+
+.tre {
+    background-color: rgb(195, 236, 255);
+    border-color: rgb(91, 201, 252);
+}
+
+.quattro {
+    background-color: rgb(183, 255, 193);
+    border-color: rgb(84, 254, 87);
+}
+
+.paragrafibox {
+    font-size: 1.1rem;
+}
+
+ .tuttibox .box .detail-box {
+    margin-top: 15px;
+}
+
+#dormire {
+    width: auto;
+    max-width: 100%;
+    height: 200px;
+    border-radius: 15%;
+}
+#divertirsi {
+    width: auto;
+    max-width: 100%;
+    height: 200px;
+    border-radius: 15%;
+}
+#imparare {
+    height: 200px;
+    width: auto;
+    max-width: 100%;
+    border-radius: 15%;
+}
+#inglese {
+    height: 200px;
+    max-width: 100%;
+    width: auto;
+    border-radius: 15%;
+
+}
+
+
+footer {
+    font-weight: 500;
+    font-family: 'Cabin', sans-serif;
+    background-color:rgba(251, 185, 251, 0.429)  ;
+    color:rgb(0, 0, 0);
+    padding-bottom: 2%;
+   
+   
+}
+
+#footeruno {
+    margin-bottom: 0.5rem;
+}
+#footerdue {
+    margin-bottom: 0rem;
+    
+}
+
+.titolo {
+    padding: 2% 4%;
+    
+}
+
+#h2pagine {
+    margin-bottom: 0%;
+    text-decoration-line: underline;
+    font-size: 2rem;
+    text-align: center;
+}
+
+i {
+    padding: 0% 2%;
+}
+.sottotitolo {
+    text-align: center;
+   padding: 1% 5%;
+   margin-bottom: 0%;
+   font-size: 1.2rem;
+}
+
+.spotify {
+    padding: 2% 5%;
+}
+
+.play {
+    font-size: 1.2rem;
+    text-decoration: underline !important;
+    text-decoration-color: fuchsia !important;
+}
+
+.list-group {
+    padding: 2% 5%;
+}
+
+.paragrafo-canzoni {
+    margin-bottom: 0% !important;
+}
+
+.dispari1 {
+    background-color:rgb(255, 224, 224) ;
+}
+.pari1 {
+    background-color: rgb(255, 189, 189);
+}
+
+.dispari2 {
+    background-color: lightyellow !important;
+}
+.pari2 {
+    background-color: rgb(253, 236, 189) !important;
+}
+
+.dispari3 {
+    background-color: rgb(222, 245, 255);
+}
+.pari3 {
+    background-color: rgb(189, 209, 253);
+}
+
+.dispari4 {
+    background-color: rgb(222, 255, 225);
+}
+.pari4 {
+    background-color: rgb(167, 251, 178);
+}
+
+.linkyoutube {
+    text-decoration:solid;
+    color: darkblue;
+    padding: 4px;
+    border-color: rgb(1, 1, 103);
+    border-width: 2px;
+    border-style: solid;
+
+}
+
