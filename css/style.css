@@ -271,4 +271,17 @@ i {
     border-style: solid;
 
 }
+.documentazione {
+    padding: 3% 7%;
 
+}
+.docu {
+    font-size: 1.3rem;
+    padding: 2%;
+}
+
+.wireframe {
+    width: 300px;
+    height: auto;
+    padding: 2%;
+}
